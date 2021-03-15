@@ -1,0 +1,124 @@
+Table of Contents for CloudFormation Deep Dive
+
+Chapter 1 
+Introduction to CloudFormation
+
+CloudFormation Essentials
+Intro to JSON
+Intro to YAML
+CloudFormation and IAM Part 1
+CloudFormation and IAM Part 2
+CloudFormation Resource Types
+CloudFormation Template Anatomy
+
+
+Chapter 2
+Templates In-Depth
+
+Template Format and Structure
+Template Sections In-Depth Part 1
+Template Sections In-Depth Part 2
+Intrinsic Functions
+Intrinsic  Function Examples
+CloudFormation Pseudo Parameters
+Condition Functions
+Condition Functions Part 2
+Template to Stack
+Using CloudFormation Designer
+Using CloudFormer
+CloudFormation Templates For VPCs
+Template Best Practices
+
+Chapter 2 Labs
+Introduction To Templates And Stacks
+CloudFormation Designer
+Working with CloudFormation Condition Functions
+
+Chapter 3
+Stacks In-Depth
+
+A Deeper Dive Into Stacks
+More Stack Details
+Protecting Your Stacks
+Protecting Your Stacks Part 2
+Rollback Triggers
+Using AWS Config to Monitor Stacks
+Drift Detection
+Drift Detection from the CLI
+Drift Alerts via AWS Config
+Drift Remediation
+VPC Endpoints for CloudFormation
+CloudFormation Guardrails
+
+Chapter 3 Labs
+CloudFormation Drift Detection
+Using AWS Config to Monitor CloudFormation Stack Resources
+
+Chapter 4
+Updating Stacks
+
+Updating Stacks: Part 1
+Updating Stacks: Part 2
+Change Sets
+Cross-Stack References
+Nested Stacks
+
+Chapter 4 Labs
+CloudFormation Nested Stacks
+Deploy an EC2 Instance Using Cross-Stack References
+CloudFormation Direct Updates and Change Sets
+
+Chapter 5
+CloudFormation from the CLI
+
+CLI Installation
+CLI Configuration
+CloudFormation from the CLI
+
+Chapter 6
+Template Advanced Concepts
+
+Bootstrapping
+Wait Conditions
+Creation Policies
+Update Policies
+Helper Scripts
+Helper Script Walkthrough
+Systems Manager Parameter Store
+Dynamic References
+Handling of Secrets
+CloudFormation Macros
+
+Chapter 7
+CloudFormation Custom Resources
+
+Introduction to Custom Resources
+Introduction to Lambda
+Custom Resources by Example: AMI Selection
+Custom Resources by Example: Password Checker
+Serverless Application Model Part 1
+Serverless Application Model Part 2
+
+Chapter 8 
+Stack Sets
+
+Provisioning at Scale
+Introduction to Stack Sets
+Creating Stack Sets
+Updating Stack Sets
+Adding Stacks to Stack Sets
+Stack Set Override Parameters
+Stack Set Best Practices and Deleting Stack Sets
+
+Chapter 9
+CloudFormation Deployment With Continuous Delivery
+Continuous Delivery With CloudFormation And Code Pipeline Part 1
+Continuous Delivery With CloudFormation And Code Pipeline Part 2
+
+Chapter 10
+CloudFormation Best Practices and Troubleshooting
+Troubleshooting CloudFormation Part 1
+Troubleshooting CloudFormation Part 2
+CloudFormation Best Practices
+CloudFormation Disaster Recovery
+Conclusion 
